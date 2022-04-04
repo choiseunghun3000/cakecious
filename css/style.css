@@ -162,7 +162,6 @@ header .wrap ul li a img{display: block; height: 48px;}
 }
 #main1 .wrap .txt_part a:hover{color:#fff; background-color:#f295b2;}
 
-
 /***<중간교육 : 마우스 오버시 하단으로부터 내부 콘텐츠를 올라오게 구성한다.>***/
 #midEdu1{
     width: 300px; height: 300px; 
