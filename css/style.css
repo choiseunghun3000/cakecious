@@ -598,7 +598,7 @@ header .wrap ul li a img{display: block; height: 48px;}
 /***** footer part(footer) *****/
 footer{}
 footer .top_space{
-    background-color: #777; 
+    background-color: #333; 
     color:#cfcfcf;
 }
 footer .top_space .wrap{
